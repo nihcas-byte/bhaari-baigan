@@ -11,4 +11,8 @@ rg-list = {
     name     = "rg-data-test"
     location = "westindia"
   }
+  rg4 = {
+    name     = "rg-data-qa"
+    location = "westindia"
+  }
 }
