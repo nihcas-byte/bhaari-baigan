@@ -7,4 +7,8 @@ rg-list = {
     name     = "rg-data-dev"
     location = "centralindia"
   }
+  rg3 = {
+    name     = "rg-data-test"
+    location = "westindia"
+  }
 }
